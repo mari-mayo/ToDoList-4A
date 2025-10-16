@@ -1,0 +1,26 @@
+.navbar{
+    background-color: rgb(218, 24, 62);
+    overflow: hidden;
+    padding-inline: 1rem;
+    
+    display: flex;
+    flex-direction: row;
+    collor: white;
+}
+
+.navbar ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    align-items: center;
+    justify-content: end;
+    width: 100%;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+}
+
