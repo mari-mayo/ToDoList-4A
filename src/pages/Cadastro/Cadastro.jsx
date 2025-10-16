@@ -11,7 +11,6 @@ export default function Cadastro() {
                 <input type="password" placeholder="Confirmar senha..." />
                 <button type="submit">Cadastrar </button>
             </form>
-
         </div>
     )
 }
